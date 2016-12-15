@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jumping Juego</string>
+    <string name="PlayGame">Jugar un juego</string>
+    <string name="Exit">Salida</string>
+    <string name="score">Puntuación :</string>
+    <string name="lives">Vive :</string>
+    <string name="coins">Monedas :</string>
+</resources>

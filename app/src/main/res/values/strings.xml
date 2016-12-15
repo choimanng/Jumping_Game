@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Jumping Game</string>
+    <string name="PlayGame">Play Game</string>
+    <string name="Exit">Exit</string>
+    <string name="score">Score :</string>
+    <string name="lives">Lives :</string>
+    <string name="coins">Coins :</string>
+</resources>
